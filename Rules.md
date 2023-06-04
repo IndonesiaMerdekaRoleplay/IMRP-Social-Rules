@@ -26,7 +26,23 @@
 - Dilarang Spawn Sembarangan
 - Fokus Dalam Roleplay
 
+# Jawa Barat Speed
+| Tempat | Max Speed |
+|-----:|-----------|
+| Bandung| 70|
+| Bekasi| 65|
+| BSD| 70|
+| Jakarta| 80|
+| Puncak| 55|
 
+# Jawa Tengah Speed
+| Tempat | Max Speed |
+|-----:|-----------|
+|     Palimanan| 65|
+|     Tegal| 65    |
+|     Cirebon| 70       |
+|  Pekalongan| 70|
+|  Semarang| 7-|
 
 # Peraturan Berkomunikasi
 
