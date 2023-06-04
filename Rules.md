@@ -42,7 +42,7 @@
 |     Tegal| 65    |
 |     Cirebon| 70       |
 |  Pekalongan| 70|
-|  Semarang| 7-|
+|  Semarang| 70|
 
 # Peraturan Berkomunikasi
 
@@ -55,3 +55,6 @@
 - Tidak Diperbolehkan Meminta Apapun Kepada Admin
 - Dilarang Menjual Obat Obatan Terlarang
 - Diperbolehkan Kritik Dan Saran Kepada Masing Masing Host IMRP
+
+# Team IMRP
+> Hormat kami team IMRP 
