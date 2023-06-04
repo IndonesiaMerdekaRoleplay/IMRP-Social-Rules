@@ -1,4 +1,34 @@
-# Rules Berkomunikasi
+# Peraturan Roleplay
+
+- Collision Wajib Nyala
+- Wajib Belok Menggunakan Sein
+- Dilarang Keras Rusuh
+- Mengikuti Perintah Masing Masing Host Roleplay
+- Wajib Berhenti Jika Lampu Merah
+- Jika Anda Ingin Rem Dadakan Wajib Menyalakan Hazard
+- Dilarang Menerobos Lampu Lalu Lintas
+- Dilarang Keras Menerobos Lampu Merah!
+- Dilarang Keras Lawan Arah!
+- Avatar Harus Seperti Real Life (Tidak Diwajibkan)
+- Dilarang Parkir Sembarangan
+- Sirine Diwajibkan Off Jika Tidak Ada Tugas
+- Patuhi Rambu Rambu Lalulintas
+- Memberi Jalan Kepada Polisi Dan Ambulan Jika Dalam Keadaan Darurat
+- Dilarang Mengdriftkan Kendaraan!
+- Dilarang Keras Speeding
+- Diwajibkan Mengklaim Rumah (Jika Sudah Habis Tdk Diwajibkan)
+- Jika Anda Dalam Keadaan Ada Masalah Dilarang Kabur
+- Jika Anda Ditilang Dilarang Kabur
+- PVP Diwajibkan On
+- Anda Diperbolehkan Belok Kiri Di Lampu Meras
+- Jika Anda Mengalami Lag/Drop Fps Kami Saranin Belok Kiri
+- Jika Anda Tertabrak/Menabrak Diwajibkan Chat "Exchange"
+- Dilarang Spawn Sembarangan
+- Fokus Dalam Roleplay
+
+
+
+# Peraturan Berkomunikasi
 
 - Berbicara Kasar Tidak Diperbolehkan 
 - Dilarang Rasis Dan Sara
